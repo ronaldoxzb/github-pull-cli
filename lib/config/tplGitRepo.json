@@ -1,0 +1,14 @@
+{
+  "egg-spider": {
+    "download": "ronaldoxzb/egg-spider#tencent-oss",
+    "description": "web前端全栈项目"
+  },
+  "node-process": {
+    "download": "ronaldoxzb/node-process",
+    "description": "node.js多进程"
+  },
+  "hexo-blog": {
+    "download": "ronaldoxzb/ronaldoxzb.github.io#blog-dev",
+    "description": "hexo个人博客"
+  }
+}
